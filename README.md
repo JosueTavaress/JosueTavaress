@@ -8,7 +8,6 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### 🌍 "Pra mim, tudo é um desafio que pode ser descoberto." 🧠
 
-- 📍 Living in Distrito Federal
 - 🎸 in love with music, obsessed with the universe and quantum mechanics ♾️ 🌌 🪐
 - 🚧 Sharing a little of my Front-End journey at (https://www.instagram.com/josu_jf/) 
 
