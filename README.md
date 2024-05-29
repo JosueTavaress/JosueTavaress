@@ -2,7 +2,7 @@
 
 My name is Josué Tavares  👨‍💻 🇧🇷
 
-I'm a web developer, I'm studying fullstack web development at Trybe 🖤 💻
+I'm fullstack web development 🖤 💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
